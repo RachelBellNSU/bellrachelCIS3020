@@ -1,0 +1,40 @@
+/* Southern Comforts Theme – CIS3020 Project */
+
+body {
+  font-family: Georgia, serif;
+  background-color: #fdf6f0;
+  color: #3e2f1c;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #d8b08c;
+  padding: 1em;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 2em;
+  padding: 0;
+}
+
+nav a {
+  text-decoration: none;
+  color: #3e2f1c;
+  font-weight: bold;
+}
+
+main {
+  padding: 2em;
+}
+
+footer {
+  background-color: #d8b08c;
+  text-align: center;
+  padding: 1em;
+  margin-top: 2em;
+}
